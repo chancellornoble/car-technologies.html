@@ -1,7 +1,19 @@
 body {
-  background-color: hsl(240%, 50%, 50%);
+  font-family: fantasy;
+  font-size: 25px
 }
 
-.daddyshark {
-  color: white;
+body {
+  text-align: left;
+  background: url(https://www.bing.com/images/search?view=detailV2&ccid=zwxPnTac&id=C2D2E13A43B1217B8718DD6EC579D36311459A96&thid=OIP.zwxPnTacaaB4m6vsPMVvHQHaEo&mediaurl=https%3a%2f%2fwww.carpixel.net%2fw%2fc713314e2b95bd1ae085c1ec8960ef66%2fjaguar-xjr-car-wallpaper-28880.jpg&exph=1200&expw=1920&q=car+image&simid=607991484981773215&selectedIndex=0&adlt=STRICT);
+}
+
+h4 {
+  text-align: center;
+  font-size: 32px
+}
+
+h1 {
+  font-weight: bolder;
+  text-align: center;
 }
