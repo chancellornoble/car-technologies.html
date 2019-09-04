@@ -1,7 +1,9 @@
 body {
   text-align: left;
-    font-family: fantasy, Times, serif;
-  font-size: 25px
+font-family: 'Livvic', sans-serif;
+  font-size: 25px;
+background-color: #00a3cc;
+color: white;
 
 }
 
@@ -15,5 +17,5 @@ h1 {
   text-align: center;
 }
 .title {
-  background-image: url("https://images.app.goo.gl/D8fcBcAWPVXT2qFf6");
+font-family: 'Monoton', cursive;
 }
