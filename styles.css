@@ -1,22 +1,20 @@
-body {
-  text-align: left;
-font-family: 'Livvic', sans-serif;
-  font-size: 25px;
-background-color: #00a3cc;
-color: white;
-
+#title {
+  font-weight: bolder;
+  text-align: center;
+font-family: 'Monoton', cursive;
 }
+
 
 h4 {
   text-align: center;
   font-size: 32px
 }
 
-h1 {
-  font-weight: bolder;
-  text-align: center;
+
+body {
+  text-align: left;
+font-family: 'Livvic', sans-serif;
+  font-size: 25px;
+background-color: #00a3cc;
+color: white;
 }
-.title {
-font-family: 'Monoton', cursive;
-}
-jkEJFOAJSFO
