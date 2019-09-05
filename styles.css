@@ -1,22 +1,25 @@
 body {
   text-align: left;
-font-family: 'Livvic', sans-serif;
+  font-family: 'Livvic', sans-serif;
   font-size: 25px;
-background-color: #00a3cc;
-color: white;
+  background-image: linear-gradient(pink, blue);
+  color: white;
+  border-style: double;
+  border-color: black;
+  border-width: 10px;
+  background-image:
 }
-
 
 h4 {
   text-align: center;
-  font-size: 32px
+  font-size: 32px;
+  color: yellow;
+  font-family: 'Londrina Shadow', cursive;
 }
 
 h1 {
-  font-weight: bolder;
+  font-weight: normal;
   text-align: center;
-
-}
-.title {
-font-family: 'Monoton', cursive;
+  font-family: 'Monoton', cursive;
+  text-shadow: 10px 10px black;
 }
